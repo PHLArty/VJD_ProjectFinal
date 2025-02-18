@@ -1,0 +1,1 @@
+/home/arty/Documents/Dev_mobile/vjd_projectfinal/build/app/intermediates/cxx/Debug/h2g23425/obj/arm64-v8a
