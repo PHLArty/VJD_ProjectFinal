@@ -1,0 +1,2 @@
+/home/arty/Documents/Dev_mobile/vjd_projectfinal/android/app/.cxx/Debug/h2g23425/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/arty/Documents/Dev_mobile/vjd_projectfinal/android/app/.cxx/Debug/h2g23425/arm64-v8a/CMakeFiles/rebuild_cache.dir
