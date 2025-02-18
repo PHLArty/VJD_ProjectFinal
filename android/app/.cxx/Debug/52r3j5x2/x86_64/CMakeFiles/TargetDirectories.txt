@@ -1,0 +1,2 @@
+C:/Users/tranv/Documents/GitHub/VJD_ProjectFinal/android/app/.cxx/Debug/52r3j5x2/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/tranv/Documents/GitHub/VJD_ProjectFinal/android/app/.cxx/Debug/52r3j5x2/x86_64/CMakeFiles/rebuild_cache.dir
