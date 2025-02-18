@@ -1,0 +1,2 @@
+C:/Users/latitude 5420/Downloads/Project/VJD_ProjectFinal/android/app/.cxx/Debug/294s2u6o/x86/CMakeFiles/edit_cache.dir
+C:/Users/latitude 5420/Downloads/Project/VJD_ProjectFinal/android/app/.cxx/Debug/294s2u6o/x86/CMakeFiles/rebuild_cache.dir
