@@ -1,0 +1,1 @@
+ /home/arty/Documents/Dev_mobile/vjd_projectfinal/.dart_tool/flutter_build/a3f1b8ec36dd1d75d89add1c09b5361d/native_assets.json: 
