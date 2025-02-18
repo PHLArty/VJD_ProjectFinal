@@ -1,7 +1,16 @@
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const MyApp());
+void main() async{
+  WidgetsFlutterBinding.ensureInitialized();
+  // Khởi tạo Firebase
+  await Firebase.initializeApp().then((value) {
+    print('Firebase initialized');
+  }).catchError((error) {
+    print('Firebase initialization error: $error');
+  });
+
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -12,6 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         // This is the theme of your application.
         //
